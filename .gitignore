@@ -1,0 +1,16 @@
+# Icarus Verilog
+*.out
+*.vcd
+*.lxt
+
+# Vivado / Quartus / FPGA Tools
+*.log
+*.jou
+*.pb
+*.bit
+*.bin
+*.xpr
+.xil/
+db/
+incremental_compile/
+work/
